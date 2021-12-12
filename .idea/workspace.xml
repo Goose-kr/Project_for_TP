@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="088085bc-cdab-435a-888d-ff69df2166d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="22BYvixjhZL3c5y10fPHPy5zWNB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="088085bc-cdab-435a-888d-ff69df2166d5" name="Default Changelist" comment="" />
+      <created>1639312681545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639312681545</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="921" y="122" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1639312818274">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="921" y="122" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1600.860@0.0.1600.860" timestamp="1639312818274" />
+    <state x="1068" y="331" width="464" height="305" key="Github.ShareDialog" timestamp="1639313325533">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="1068" y="331" width="464" height="305" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1639313325533" />
+    <state x="974" y="138" key="Github.UntrackedFilesDialog" timestamp="1639313333186">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="974" y="138" key="Github.UntrackedFilesDialog/0.0.1600.860@0.0.1600.860" timestamp="1639313333186" />
+    <state x="784" y="166" key="Vcs.Push.Dialog.v2" timestamp="1639313433361">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="784" y="166" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1639313433361" />
+    <state x="271" y="40" key="new project wizard" timestamp="1639312807988">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="271" y="40" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1639312807988" />
+    <state x="863" y="181" key="search.everywhere.popup" timestamp="1639312982628">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="863" y="181" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1639312982628" />
+  </component>
+</project>
